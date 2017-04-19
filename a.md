@@ -3,5 +3,5 @@
 |test|test|
 
 
-[ ] hello  
-[x] world  
+* [ ] hello  
+* [x] world  
